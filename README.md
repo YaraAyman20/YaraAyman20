@@ -31,11 +31,4 @@ Here are some ideas to get you started:
 🌱 React Developer
 </p>
 
-<!-- <p align="center">
- <a href="https://github.com/Abdullah12has"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah12has&theme=dark"></a>
-</p> -->
-<!-- <p align="center">
-  <a href="https://github.com/Abdullah12has"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abdullah12has&layout=compact&theme=radical" />
-</a> -->
-<!-- </p> -->
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abdullah12has&theme=synthwave&show_icons=true" alt="Abdullah12has" /> -->
+
